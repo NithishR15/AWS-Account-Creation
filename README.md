@@ -18,13 +18,11 @@ This experiment aims to guide users through the process of creating an AWS accou
 ## OUTPUT:
 
 ## ROOT USER
-![Screenshot 2024-08-29 041048](https://github.com/user-attachments/assets/3f87b458-8e82-4607-aeb9-f6d1ba7ba0b3)
+
 
 ## IAM USER
 
-![Screenshot 2024-08-29 040259](https://github.com/user-attachments/assets/9e68129c-1e2b-4f03-b89c-4d7593a05658)
 
-![Screenshot 2024-08-29 040118](https://github.com/user-attachments/assets/0b9ad71b-0fdd-44a4-aba6-620372549d16)
 
 
 
