@@ -1,34 +1,45 @@
-# EX.NO:2
-# CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
-## Name : NITHISH R
-## Register Number :212223040135
+# CREATE AN ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER
+## AIM :
+To create an AWS account, set up a root user, and create an IAM user with specified permissions.
 
-## AIM:
-To Create an Account in AWS Set up a Root user and an IAM user.
-## PROBLEM STATEMENT:
-This experiment aims to guide users through the process of creating an AWS account, understanding the significance of the root user, and setting up an IAM user for everyday tasks. The root user has unrestricted access to all AWS resources, while IAM users allow for more controlled access management.
+## PROBLEM STATEMENT :
+This experiment involves creating an AWS account, configuring security settings for the root user, and setting up an IAM user. IAM users allow for secure, managed access to AWS resources without exposing the main account's root credentials.
 
-## ALGORITHM:
-1. Create an AWS Account.
-2. Sign in as Root User.
-3. Secure Your Root User.
-4. Create an IAM User.
-5. Assign Permissions.
+## ALGORITHM :
+Step 1:
+Create an AWS Account
 
-## OUTPUT:
+Step 2:
+Log In as Root User
 
-## ROOT USER
+Step 3:
+Open IAM Management Console
 
+Step 4:
+Add a New IAM User
 
-## IAM USER
+Step 5:
+Configure IAM User Login
 
+Step 6:
+Set Permissions for IAM User
 
+Step 7:
+Review and Create IAM User
 
+## OUTPUT
+### REG NUMBER: 212223040135
+### NAME: NITHISH R
+1. Root user:
+  ![Screenshot 2024-11-15 101754](https://github.com/user-attachments/assets/45d846ff-81da-4939-85ec-240a56c7092a)
+ 
 
+3. IAM user:
+ ![Screenshot 2024-11-15 101810](https://github.com/user-attachments/assets/ad0b4514-9c80-4f4d-9526-b0c1452f3be2)
 
+ 
 ## RESULT:
-
-Thus, Creation of an account in AWS and Set up of Root user and an IAM user is done successfully.
+The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
  
 
   
